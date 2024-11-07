@@ -1,0 +1,16 @@
+PSEUDOCEDE STUDI KASUS 4
+NAMA : ANGGI DWI PUJI SAPUTRI
+KELAS : X RPL
+
+total 
+if total >=100.000 AND total <=300.000 then
+	print (selamat mendapat diskon 10%)
+	total = total - (total*0.1)
+if total >=300.001 AND total <=500.000 then
+	print (selamat anda mendapat diskon 20%)
+	total = total - (total*0.2)
+if total >=500.000 then
+	print (selamat anda mendapat diskon 25%
+	total = total - (total*0.25
+endif
+print (total)
